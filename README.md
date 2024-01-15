@@ -3,10 +3,6 @@
 I'm a **Machine Learning Developer** with a master's in **Electrical Engineering** and over three years of expertise in developing advanced deep learning models, particularly focusing on cutting-edge architectures in NLP for text data. I specialize in designing end-to-end ML pipelines, from initial data cleaning, and preprocessing to model deployment efficiently using Azure and Docker for scalability. I also have hands-on experience working with Pytorch, Pandas, scikit-learn, and Tensorflow.
 
 I'm also passionate about **merging ML algorithms with embedded systems** to run them on edge devices efficiently. 
-<!--
-**parisaAMahdavi/ParisaAMahdavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🔭 A summary of the work I've done so far
 
