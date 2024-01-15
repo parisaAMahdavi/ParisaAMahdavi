@@ -8,15 +8,15 @@ I'm also passionate about **merging ML algorithms with embedded systems** to run
 
 My technical expertise lies in the following areas:
 
-* <font color="blue">Programming Languages and Database:</font> Python(Numpy, Pandas, Scikit-learn), R, SQL.
-* <span style="color:blue">Machine Learning Frameworks:</span> Scikit-learn, TensorFlow, PyTorch, Keras.
-* <span style="color:blue">Model Development:</span> Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Deep Learning(RNN, LSTM).
-* <span style="color:blue">NLP and Text:</span> Transformer models, Named Entity Recognition (NER), NLTK, Spacy, Hugging Face.
-* <span style="color:blue">Deployment and productionization:</span> Model Deployment (Flask), Containerization (Docker),   Cloud Platforms (Azure, Google Cloud).
-* <span style="color:blue">Version Control and Collaboration:</span> GitHub, Jira.
-* <span style="color:blue">Data Analysis and Visualization:</span> Matplotlib, Seaborn, Tableau
-* <span style="color:blue">Hardware Description Languages:</span> VHDL, Verilog.
-* <span style="color:blue">Schematic and PCB design:</span> Allegro, Altium
+* + Programming Languages and Database: Python(Numpy, Pandas, Scikit-learn), R, SQL.
+* Machine Learning Frameworks: Scikit-learn, TensorFlow, PyTorch, Keras.
+* Model Development: Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Deep Learning(RNN, LSTM).
+* NLP and Text: Transformer models, Named Entity Recognition (NER), NLTK, Spacy, Hugging Face.
+* Deployment and productionization: Model Deployment (Flask), Containerization (Docker),   Cloud Platforms (Azure, Google Cloud).
+* Version Control and Collaboration: GitHub, Jira.
+* Data Analysis and Visualization: Matplotlib, Seaborn, Tableau
+* Hardware Description Languages: VHDL, Verilog.
+* Schematic and PCB design: Allegro, Altium
 
 <!-- 🔭 A summary of the work I've done so far
 
