@@ -1,5 +1,5 @@
 ### Hi there 👋
-<code style="color : name_color">text</code>
+
 I'm a **Machine Learning Developer** with a master's in **Electrical Engineering** and over three years of expertise in developing advanced deep learning models, particularly focusing on cutting-edge architectures in NLP for text data. I specialize in designing end-to-end ML pipelines, from initial data cleaning, and preprocessing to model deployment efficiently using Azure and Docker for scalability. I also have hands-on experience working with Pytorch, Pandas, scikit-learn, and Tensorflow.
 
 I'm also passionate about **merging ML algorithms with embedded systems** to run them on edge devices efficiently. 
@@ -8,15 +8,15 @@ I'm also passionate about **merging ML algorithms with embedded systems** to run
 
 My technical expertise lies in the following areas:
 
-* + Programming Languages and Database: Python(Numpy, Pandas, Scikit-learn), R, SQL.
-* Machine Learning Frameworks: Scikit-learn, TensorFlow, PyTorch, Keras.
-* Model Development: Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Deep Learning(RNN, LSTM).
-* NLP and Text: Transformer models, Named Entity Recognition (NER), NLTK, Spacy, Hugging Face.
-* Deployment and productionization: Model Deployment (Flask), Containerization (Docker),   Cloud Platforms (Azure, Google Cloud).
-* Version Control and Collaboration: GitHub, Jira.
-* Data Analysis and Visualization: Matplotlib, Seaborn, Tableau
-* Hardware Description Languages: VHDL, Verilog.
-* Schematic and PCB design: Allegro, Altium
+* <code style="color : Darkorange">Programming Languages and Database:</code> Python(Numpy, Pandas, Scikit-learn), R, SQL.
+* <code style="color : Darkorange">Machine Learning Frameworks:</code> Scikit-learn, TensorFlow, PyTorch, Keras.
+* <code style="color : Darkorange">Model Development:</code> Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Deep Learning(RNN, LSTM).
+* <code style="color : Darkorange">NLP and Text:</code> Transformer models, Named Entity Recognition (NER), NLTK, Spacy, Hugging Face.
+* <code style="color : Darkorange">Deployment and productionization: Flask, Docker, Cloud Platforms (Azure, Google Cloud).
+* <code style="color : Darkorange">Version Control and Collaboration:</code> GitHub, Jira.
+* <code style="color : Darkorange">Data Analysis and Visualization:</code> Matplotlib, Seaborn, Tableau
+* <code style="color : Darkorange">Hardware Description Languages:</code> VHDL, Verilog.
+* <code style="color : Darkorange">Schematic and PCB design:</code> Allegro, Altium
 
 <!-- 🔭 A summary of the work I've done so far
 
