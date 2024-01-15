@@ -8,7 +8,7 @@ I'm also passionate about **merging ML algorithms with embedded systems** to run
 
 My technical expertise lies in the following areas:
 
-* $${\color{red}Programming Languages and Database:}$$ Python(Numpy, Pandas, Scikit-learn), R, SQL.
+* $\color{red}{\textsf{Programming Languages and Database:}}$ Python(Numpy, Pandas, Scikit-learn), R, SQL.
 * <code style="color : Darkorange">Machine Learning Frameworks:</code> Scikit-learn, TensorFlow, PyTorch, Keras.
 * <code style="color : Darkorange">Model Development:</code> Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Deep Learning(RNN, LSTM).
 * <code style="color : Darkorange">NLP and Text:</code> Transformer models, Named Entity Recognition (NER), NLTK, Spacy, Hugging Face.
