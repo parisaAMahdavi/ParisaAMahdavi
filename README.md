@@ -8,15 +8,15 @@ I'm also passionate about **merging ML algorithms with embedded systems** to run
 
 My technical expertise lies in the following areas:
 
-* $\color{red}{\textsf{Programming Languages and Database:}}$ Python(Numpy, Pandas, Scikit-learn), R, SQL.
-* <code style="color : Darkorange">Machine Learning Frameworks:</code> Scikit-learn, TensorFlow, PyTorch, Keras.
-* <code style="color : Darkorange">Model Development:</code> Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Deep Learning(RNN, LSTM).
-* <code style="color : Darkorange">NLP and Text:</code> Transformer models, Named Entity Recognition (NER), NLTK, Spacy, Hugging Face.
-* <code style="color : Darkorange">Deployment and productionization: Flask, Docker, Cloud Platforms (Azure, Google Cloud).
-* <code style="color : Darkorange">Version Control and Collaboration:</code> GitHub, Jira.
-* <code style="color : Darkorange">Data Analysis and Visualization:</code> Matplotlib, Seaborn, Tableau
-* <code style="color : Darkorange">Hardware Description Languages:</code> VHDL, Verilog.
-* <code style="color : Darkorange">Schematic and PCB design:</code> Allegro, Altium
+* $\color{Orange}{\textsf{Programming Languages and Database:}}$ Python(Numpy, Pandas, Scikit-learn), R, SQL.
+* $\color{Orange}{\textsf{Machine Learning Frameworks:}}$ Scikit-learn, TensorFlow, PyTorch, Keras.
+* $\color{Orange}{\textsf{Model Development:}}$ Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Deep Learning(RNN, LSTM).
+* $\color{Orange}{\textsf{NLP and Text:}}$ Transformer models, Named Entity Recognition (NER), NLTK, Spacy, Hugging Face.
+* $\color{Orange}{\textsf{Deployment and productionization:}}$ Flask, Docker, Cloud Platforms (Azure, Google Cloud).
+* $\color{Orange}{\textsf{Version Control and Collaboration:}}$ GitHub, Jira.
+* $\color{Orange}{\textsf{Data Analysis and Visualization:}}$ Matplotlib, Seaborn, Tableau
+* $\color{Orange}{\textsf{Hardware Description Languages:}}$ VHDL, Verilog.
+* $\color{Orange}{\textsf{Schematic and PCB design:}}$ Allegro, Altium
 
 <!-- 🔭 A summary of the work I've done so far
 
