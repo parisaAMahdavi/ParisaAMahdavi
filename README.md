@@ -14,6 +14,5 @@ I'm also passionate about **merging ML algorithms with embedded systems** to run
 
 * I am currently exploring new opportunities in Machine Learning and Data Science to further advance my journey in these domains.
 
-
-###🎯 Portfolio website: [Portfolio](https://parisaamahdavi.github.io/)
-###📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/parisa-akhavan-mahdavi/)
+- 🎯 Portfolio website: [Portfolio](https://parisaamahdavi.github.io/)
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/parisa-akhavan-mahdavi/)
