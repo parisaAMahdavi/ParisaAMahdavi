@@ -9,12 +9,14 @@ I'm also passionate about **merging ML algorithms with embedded systems** to run
 My technical expertise lies in the following areas:
 
 * Programming Languages and Database: Python(Numpy, Pandas, Scikit-learn), R, SQL.
-* Machine Learning Frameworks: Scikit-learn,TensorFlow, PyTorch, Keras.
+* Machine Learning Frameworks: Scikit-learn, TensorFlow, PyTorch, Keras.
 * Model Development: Supervised Learning (Classification, Regression), Unsupervised Learning (Clustering, Dimensionality Reduction), Deep Learning(RNN, LSTM).
 * NLP and Text: Transformer models, Named Entity Recognition (NER), NLTK, Spacy, Hugging Face.
-* Deployment and Productionization: Model Deployment (Flask), Containerization (Docker),   Cloud Platforms (Azure, Google Cloud).
+* Deployment and productionization: Model Deployment (Flask), Containerization (Docker),   Cloud Platforms (Azure, Google Cloud).
 * Version Control and Collaboration: GitHub, Jira.
 * Data Analysis and Visualization: Matplotlib, Seaborn, Tableau
+* Hardware Description Languages: VHDL, Verilog.
+* Schematic and PCB design: Allegro, Altium
 
 <!-- 🔭 A summary of the work I've done so far
 
