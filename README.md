@@ -13,3 +13,5 @@ I'm also passionate about **merging ML algorithms with embedded systems** to run
 * As an electrical intern at Madar Tarah Co, I gained practical experience in both soft and hard skills at an industrial level. I actively contributed to the design of industrial boards with high-performance processors, while also supporting the verification of component symbols and footprints to ensure alignment with reference designs, utilizing Altium.
 
 * I am currently exploring new opportunities in Machine Learning and Data Science to further advance my journey in these domains.
+
+### :speech_balloon: Connect with me [here](https://www.linkedin.com/in/parisa-akhavan-mahdavi/)
